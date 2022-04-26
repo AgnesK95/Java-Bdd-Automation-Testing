@@ -1,4 +1,4 @@
-Feature: Login feature
+Feature: Login feature for jules.app
     Description: description here
 
     Background: # se ruleaza inainte de fiecare scenariu de test
